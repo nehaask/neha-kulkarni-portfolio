@@ -54,7 +54,7 @@ education:
   - area: MS in Computer Science
     institution: Rochesteer Institute of Technology
     date_start: 2022-08-01
-    date_end: 2025-5-10
+    date_end: 2025-05-10
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
