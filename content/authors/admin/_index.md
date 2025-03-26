@@ -9,6 +9,11 @@ name_pronunciation:
 first_name: Neha Shrikant
 last_name: Kulkarni
 
+# Optional cover image (relative to `assets/media/` folder).
+image:
+  caption: ''
+  filename: 'neha-kulkarni-portfolio/content/authors/avatar.jpg'
+
 # Status emoji
 status:
   icon: 
@@ -46,7 +51,7 @@ interests:
 
 education:
   - area: MS in Computer Science
-    institution: Rochesteer Institute of Technology
+    institution: Rochester Institute of Technology
     date_start: 2022-08-01
     date_end: 2025-05-10
     summary: |
