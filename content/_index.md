@@ -66,7 +66,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: masonry
 
   - block: collection
     demo: false
@@ -109,7 +109,5 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-
-  - block: cta-card
-    demo: false # Only display this section in the Hugo Blox Builder demo site
+        
 ---
