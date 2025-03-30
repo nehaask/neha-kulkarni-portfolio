@@ -45,6 +45,10 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=nvFdMzwAAAAJ
 
+# workingon:
+#   - Currently working on Parking spot detection using LiDAR !
+
+
 interests:
   - Artificial Intelligence
   - Information Retrieval
@@ -192,6 +196,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -211,46 +216,56 @@ skills:
 
 languages:
   - name: English
-    # percent: 100
+    percent: 100
   - name: Hindi
-    # percent: 75
+    percent: 75
   - name: Marathi
-    # percent: 25
+    percent: 50
   - name: Kannada
-    # percent: 25
+    percent: 50
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-#   - title: Blockchain Fundamentals
-#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#     date: '2023-07-01'
-#     awarder: edX
-#     icon: edx
-#     summary: |
-#       Learned:
-#       - Synthesize your own blockchain solutions
-#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#   - title: 'Object-Oriented Programming in R'
-#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#     certificate_url: https://www.datacamp.com
-#     date: '2023-01-21'
-#     awarder: datacamp
-#     icon: datacamp
-#     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  # Add/remove as many awards below as you like.
+  # Only `title`, `awarder`, and `date` are required.
+  # Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Fundamentals of Accelerated Computing with CUDA Python
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2025-03-15'
+    awarder: NVIDIA
+    icon: nvidia
+    summary: |
+      Learned:
+      - GPU-accelerate NumPy ufuncs with a few lines of code.
+      - Configure code parallelization using the CUDA thread hierarchy.
+      - Write custom CUDA device kernels for maximum performance and flexibility.
+      - Use memory coalescing and on-device shared memory to increase CUDA kernel bandwidth.
+
+  - title: Artificial Intelligence & Machine Learning Graduate
+    url: https://www.credly.com/badges/816e97af-5165-438c-b5bf-6e110e812b8a?source=linked_in_profile
+    date: '2022-06-01'
+    awarder: IBM
+    icon: ibm
+    summary: |
+      Learned:
+      - This credential earner has undergone in-depth learning in the concepts and technologies of artificial intelligence and its application using machine learning. 
+      - Through 450 hours of intense classroom sessions, hands-on labs and industry projects, the earner gained thorough knowledge of neural networks, pattern recognition, natural language processing, analytics and other related technologies. 
+      - The credential earner can apply this knowledge to building AI solutions for the Industry requirements.
+
+  # - title: 'Object-Oriented Programming in R'
+  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   certificate_url: https://www.datacamp.com
+  #   date: '2023-01-21'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: |
+  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
 Hello! I am Neha Kulkarni. I am a graduate student pursuing my Master's of Science in Computer Science at Rochester Institute of Technology with an interest in Machine Learning, Computer Vision and Data Science.
+
+Currently working on Parking spot detection using LiDAR !
+
+
