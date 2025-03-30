@@ -45,10 +45,6 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=nvFdMzwAAAAJ
 
-# workingon:
-#   - Currently working on Parking spot detection using LiDAR !
-
-
 interests:
   - Artificial Intelligence
   - Information Retrieval
