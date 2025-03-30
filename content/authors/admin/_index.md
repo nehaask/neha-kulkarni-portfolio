@@ -144,7 +144,7 @@ work:
     company_url: ''
     company_logo: '/assets/media/RIT_RGB_hor.png'
     date_start: 2023-08-01
-    date_end: 2024-04-31
+    date_end: 2024-04-30
     summary: |
       Responsibilities include:
       - Facilitated hands-on coding labs, projects, and assignments in Python and Java while offering individualized support and mentoring to students facing challenges.
