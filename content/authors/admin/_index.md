@@ -124,7 +124,7 @@ work:
   - position: Machine Learning Engineer Intern
     company_name: Goodyear Rubber and Tire Company
     company_url: ''
-    company_logo: '/assets/media/goodyear.png'
+    company_logo: 'neha-kulkarni-portfolio/assets/media/goodyear.png'
     date_start: 2024-05-15
     date_end: 2024-12-15
     summary: |2-
@@ -142,7 +142,7 @@ work:
   - position: Backend Software Engineer
     company_name: Rochester Institute of Technology
     company_url: ''
-    company_logo: '/assets/media/RIT_RGB_hor.png'
+    company_logo: 'neha-kulkarni-portfolio/assets/media/RIT_RGB_hor.png'
     date_start: 2023-08-01
     date_end: 2024-04-30
     summary: |
