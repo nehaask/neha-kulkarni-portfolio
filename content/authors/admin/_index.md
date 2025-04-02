@@ -124,7 +124,7 @@ work:
   - position: Machine Learning Engineer Intern
     company_name: Goodyear Rubber and Tire Company
     company_url: ''
-    company_logo: 'neha-kulkarni-portfolio/assets/media/goodyear.png'
+    company_logo: 'neha-kulkarni-portfolio/assets/media/icons/goodyear.png'
     date_start: 2024-05-15
     date_end: 2024-12-15
     summary: |2-
@@ -142,7 +142,7 @@ work:
   - position: Backend Software Engineer
     company_name: Rochester Institute of Technology
     company_url: ''
-    company_logo: 'neha-kulkarni-portfolio/assets/media/RIT_RGB_hor.png'
+    company_logo: 'neha-kulkarni-portfolio/assets/media/icons/RIT_RGB_hor.png'
     date_start: 2023-08-01
     date_end: 2024-04-30
     summary: |
@@ -229,7 +229,7 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2025-03-15'
     awarder: NVIDIA
-    icon: nvidia
+    icon: neha-kulkarni-portfolio/assets/media/icons/free-nvidia-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030185.webp
     summary: |
       Learned:
       - GPU-accelerate NumPy ufuncs with a few lines of code.
@@ -241,7 +241,7 @@ awards:
     url: https://www.credly.com/badges/816e97af-5165-438c-b5bf-6e110e812b8a?source=linked_in_profile
     date: '2022-06-01'
     awarder: IBM
-    icon: ibm
+    icon: neha-kulkarni-portfolio/assets/media/icons/IBM_logo_in.jpg
     summary: |
       Learned:
       - This credential earner has undergone in-depth learning in the concepts and technologies of artificial intelligence and its application using machine learning. 
@@ -260,7 +260,7 @@ awards:
 
 ## About Me
 
-Hello! I’m Neha Kulkarni, a Master’s student in Computer Science at Rochester Institute of Technology, passionate about Machine Learning, Computer Vision, and Data Science. In my free time, you’ll mostly find me listening to Hozier’s latest album, reading my book somewhere on campus or simply going for a run outdoors.
+Hello! I’m Neha Kulkarni! I'm an aspiring machine learning engineer passionate about Machine Learning, Computer Vision, and Data Science. In my free time, you’ll mostly find me listening to Hozier’s latest album, reading my book somewhere on campus or simply going for a run outdoors.
 
 Currently, I’m working on LiDAR-based parking spot detection, leveraging 3D point cloud data to enhance autonomous vehicle technologies.
 
