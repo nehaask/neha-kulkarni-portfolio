@@ -260,8 +260,8 @@ awards:
 
 ## About Me
 
-Hello! I am Neha Kulkarni. I am a graduate student pursuing my Master's of Science in Computer Science at Rochester Institute of Technology with an interest in Machine Learning, Computer Vision and Data Science.
+Hello! I’m Neha Kulkarni, a Master’s student in Computer Science at Rochester Institute of Technology, passionate about Machine Learning, Computer Vision, and Data Science. In my free time, you’ll mostly find me listening to Hozier’s latest album, reading my book somewhere on campus or simply going for a run outdoors.
 
-Currently working on Parking spot detection using LiDAR !
+Currently, I’m working on LiDAR-based parking spot detection, leveraging 3D point cloud data to enhance autonomous vehicle technologies.
 
 
